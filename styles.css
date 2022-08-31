@@ -89,3 +89,68 @@ button{
     
 
 }
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+.quote{
+    background-color: #a5acb6;
+    padding:100px 0 100px ;
+    
+}
+.qt{
+    font-size: 35px;
+    margin:0 400px 0;
+    font-weight;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.author{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-left: 900px;
+}
+
+.callup{
+    border: 3px solid rgb(32, 47, 112);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(32, 47, 112) ;
+    color: white;
+    padding: 30px 0 30px;
+    margin: 200px 100px 0px;
+    
+}
+
+
+
+.sign{
+    align-self: center;
+    border: 1px solid white;
+    background-color: rgb(32, 47, 112);
+    padding: 20px;
+    padding-top: -5px;
+    padding-bottom: -5px;
+    margin-right: 60;
+
+}
+
+footer{
+    background-color: #1f2937;
+    height: 60px;
+    margin: 100px 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ftext{
+    color: white;
+
+}
